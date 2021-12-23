@@ -1,4 +1,4 @@
-from jenkins/jenkins:2.249.1-lts-alpine
+from jenkins/jenkins:2.277.4-lts-alpine
 USER root
 
 # Pipeline
